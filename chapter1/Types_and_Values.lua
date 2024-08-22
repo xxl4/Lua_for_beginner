@@ -1,0 +1,11 @@
+# https://www.lua.org/pil/2.html
+print(type("Hello World"))
+print(type(10.4*3))
+print(type(print))
+print(type(type))
+print(type(true))
+print(type(nil))
+print(type(type(X)))
+print(type(a))
+print(type(type(a)))
+print(type(type(nil)))
